@@ -1,16 +1,11 @@
-addons:
-    apt:
-        packages:
-        - dos2unix
+dist: bionic
 env:
     global:
-    -   GIT_NAME: Travis CI
-    -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/indonesianadblockrules-subscriptions_git_ABPindo
+    -   GIT_NAME: Dead-Hosts
+    -   GIT_EMAIL: dead-hosts@outlook.com
     -   GIT_BRANCH: master
     -   secure: GJJBPmFI861o8zGYLmrIJA8Z4ef2MOcvAbY0jbYsf2iwhtLorRlWzSrq2XEQOYMW1zlNkyGqtVDyzMry1GtS6JtpOfKjG/J9eVaQt+9ez1QWlpl0i5wbO+CbAL7XhGMcoffb2OEG+uyMUqDHV2eZFWND0wSk06m8WpKM/8WuBe7NeMBHG69BAI1B28sMbMVBOpfjud7UUH9j3mSRQvnVIGn2uc+2gNiu6hWgFZs180ry8SQbrCrmmCgzgahgb0tjx+qJ6VJWwSGrjYbbKTLCbC4yKGRInSIKsLI1uIz6Qksbe5I30tCKrJasb/AJQYuZtXOQJHvS4JFVwMgrFNq10d/iLnI8jAb0WqXjdrFzK/iHBV3b/YppnBLleSPckVLONzSU6lMrW49f/SS3QO9Oxvy9zf5dyff49BaLWrHUB9K47clyeE3z9BpajVQ5Y8a9caOK5RIt4fYdD7eC2eBeuq476wl0is/41T0s2NotZKEtt87+z3JjBGryigeAMM+l0plGl1CiHvu+gJaSNu/ixODgrss++wek2BgwQTBt8wWkMycDoxLCf4sZYujnGGnZE/f1GyiiJAKNlPVihyGT82yBdVrgcU7RC442O57xpdofe9YeUx6f0s/nYWqZjxo+MEYFcdkUof+Ym7TkYxIHM0bZfB3865/7GBRZzlSyF+w=
-    matrix:
-    - PYTHON_VERSION="3.7.3"
+    -   PYTHON_VERSION: 3.7.5
 install:
 - export PATH="${HOME}/miniconda/bin:${PATH}"
 - wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
@@ -22,18 +17,17 @@ install:
 - source activate launcher-environment
 - python -VV
 - pip --version
-- pip install dead-hosts-launcher
+- pip install --upgrade dead-hosts-launcher
 - rm miniconda.sh
 language: generic
 notifications:
     email:
         on_failure: always
-        on_success: never
+        on_success: change
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
 - dead_hosts_launcher --version
 - dead_hosts_launcher
-sudo: required
