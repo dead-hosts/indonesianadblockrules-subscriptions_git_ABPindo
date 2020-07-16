@@ -25,8 +25,8 @@
         "state": "future"
     },
     "123drakor.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "188affiliates.com": {
@@ -595,8 +595,8 @@
         "state": "future"
     },
     "anoboy.org": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "anoboy.us": {
@@ -892,6 +892,11 @@
     "bioskop90.me": {
         "epoch": 1612224000.0,
         "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
+    "bioskop99.mobi": {
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "bioskopbokep21.com": {
@@ -1577,7 +1582,7 @@
     "dunia21.cx": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dunia21.ltd": {
         "epoch": 1614643200.0,
@@ -1972,7 +1977,7 @@
     "ganool.st": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "ganool.watch": {
         "epoch": 1614556800.0,
@@ -1982,6 +1987,11 @@
     "ganool.web.id": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "ganool21.watch": {
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "ganoolmovie.video": {
@@ -3100,8 +3110,8 @@
         "state": "future"
     },
     "ktrackdata.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "kumpulblogger.com": {
@@ -4010,8 +4020,8 @@
         "state": "future"
     },
     "nontonfilmdrama.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "nontonganool.net": {
@@ -4342,7 +4352,7 @@
     "pandujudionline.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "pantauterus.me": {
         "epoch": 1620432000.0,
@@ -4670,8 +4680,8 @@
         "state": "future"
     },
     "primbon.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "probet.biz": {
@@ -5437,6 +5447,11 @@
     "terasjakarta.id": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "past"
+    },
+    "terbit21.cool": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "terkini.id": {
