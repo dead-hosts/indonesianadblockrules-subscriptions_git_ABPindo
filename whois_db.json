@@ -3275,8 +3275,8 @@
         "state": "future"
     },
     "likaraoke.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "linkduit.net": {
@@ -4242,6 +4242,11 @@
     "onlinetogel.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
+    "onsafelink.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
         "state": "future"
     },
     "oomph.co.id": {
@@ -5657,7 +5662,7 @@
     "tokojudionline.com": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "topfilmz.com": {
         "epoch": 1605916800.0,
