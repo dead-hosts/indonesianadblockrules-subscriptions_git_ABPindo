@@ -560,8 +560,8 @@
         "state": "future"
     },
     "animenonton.tv": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "animersindo.net": {
@@ -1135,8 +1135,8 @@
         "state": "future"
     },
     "cdpoker.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "cdramabase.com": {
@@ -1540,8 +1540,8 @@
         "state": "future"
     },
     "dramaind.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "dramamu.net": {
@@ -1562,11 +1562,11 @@
     "dramaserial.xyz": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "dream.co.id": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "drewpickles.com": {
@@ -1650,8 +1650,8 @@
         "state": "future"
     },
     "dutatoto.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "dwa21.org": {
@@ -2540,9 +2540,9 @@
         "state": "future"
     },
     "indoxtream.com": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "indoxx1.art": {
         "epoch": 1596844800.0,
@@ -3224,6 +3224,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "lazacasino.com": {
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
     "ld2tv.com": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
@@ -3810,8 +3815,8 @@
         "state": "future"
     },
     "naturalhealthy.xyz": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "negumo.com": {
@@ -3930,8 +3935,8 @@
         "state": "future"
     },
     "nonton21.net": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "nonton33.com": {
@@ -4000,9 +4005,9 @@
         "state": "future"
     },
     "nontondramaseri.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "nontonfilm21.club": {
         "epoch": 1620432000.0,
@@ -4067,7 +4072,7 @@
     "nontonserial.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "nontonsini.com": {
         "epoch": 1605484800.0,
@@ -4355,9 +4360,9 @@
         "state": "future"
     },
     "pandujudionline.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "pantauterus.me": {
         "epoch": 1620432000.0,
@@ -4469,6 +4474,11 @@
         "expiration_date": "18-dec-2020",
         "state": "future"
     },
+    "playpokeronline.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "playwebgame.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
@@ -4525,8 +4535,8 @@
         "state": "future"
     },
     "pokerchipsonline.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "pokerheaven.com": {
@@ -4590,8 +4600,8 @@
         "state": "future"
     },
     "pokerplayerus.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "pokerrewards.com": {
@@ -5249,6 +5259,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "starcasino88.net": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "strawpoii.me": {
         "epoch": 1609372800.0,
         "expiration_date": "31-dec-2020",
@@ -5450,9 +5465,9 @@
         "state": "future"
     },
     "terasjakarta.id": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "terbit21.cool": {
         "epoch": 1610755200.0,
@@ -5615,8 +5630,8 @@
         "state": "future"
     },
     "togelholic.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "togeljakarta.com": {
@@ -5660,9 +5675,9 @@
         "state": "future"
     },
     "tokojudionline.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
-        "state": "past"
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "state": "future"
     },
     "topfilmz.com": {
         "epoch": 1605916800.0,
@@ -5860,8 +5875,8 @@
         "state": "future"
     },
     "useads.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "uzone.id": {
