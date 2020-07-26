@@ -555,8 +555,8 @@
         "state": "future"
     },
     "animeku.tv": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "animenonton.tv": {
@@ -789,6 +789,11 @@
         "expiration_date": "24-sep-2021",
         "state": "future"
     },
+    "beritajudionline.com": {
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
+        "state": "future"
+    },
     "bestshockers.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -832,7 +837,7 @@
     "bioskop168.online": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop168.pro": {
         "epoch": 1619568000.0,
@@ -1235,8 +1240,8 @@
         "state": "future"
     },
     "cinemamkv.net": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "cinemaqq.com": {
@@ -1560,9 +1565,9 @@
         "state": "future"
     },
     "dramaserial.xyz": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "dream.co.id": {
         "epoch": 1626480000.0,
@@ -2430,8 +2435,8 @@
         "state": "future"
     },
     "iklantelevisi.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "iklanumum.com": {
@@ -2860,8 +2865,8 @@
         "state": "future"
     },
     "juragan21.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "juraganfilm.com": {
@@ -3520,8 +3525,8 @@
         "state": "future"
     },
     "manhwahentai.me": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1658620800.0,
+        "expiration_date": "24-jul-2022",
         "state": "future"
     },
     "manjur.id": {
@@ -4070,9 +4075,9 @@
         "state": "future"
     },
     "nontonserial.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "nontonsini.com": {
         "epoch": 1605484800.0,
@@ -4575,8 +4580,8 @@
         "state": "future"
     },
     "pokerlizard.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "pokermira.com": {
@@ -5725,8 +5730,8 @@
         "state": "future"
     },
     "totobet24.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "totobet4d.com": {
