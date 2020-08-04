@@ -1,7 +1,7 @@
 {
     "01nonton.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "05ee3a24ed11df058c8.com": {
@@ -1120,8 +1120,8 @@
         "state": "future"
     },
     "caramenangtogel.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "casinoclubpoker.com": {
@@ -1365,8 +1365,8 @@
         "state": "future"
     },
     "daftarpokeronline.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "daftartaruhan.com": {
@@ -1754,6 +1754,11 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "ewetot.com": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
+    },
     "eze99.me": {
         "epoch": 1615593600.0,
         "expiration_date": "13-mar-2021",
@@ -1800,9 +1805,9 @@
         "state": "future"
     },
     "fifacash88c.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
+        "state": "future"
     },
     "file.rocks": {
         "epoch": 1609632000.0,
@@ -3540,8 +3545,8 @@
         "state": "future"
     },
     "mangashiro.net": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "manhwahentai.me": {
@@ -3550,8 +3555,8 @@
         "state": "future"
     },
     "manjur.id": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "mansionpoker.com": {
@@ -4525,8 +4530,8 @@
         "state": "future"
     },
     "poker4ever.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "pokerace.com": {
@@ -4910,8 +4915,8 @@
         "state": "future"
     },
     "remo-xp.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "republika.co.id": {
@@ -5994,6 +5999,11 @@
         "expiration_date": "04-may-2021",
         "state": "future"
     },
+    "webjudionline.com": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
+    },
     "webjuditerpercaya.com": {
         "epoch": 1693612800.0,
         "expiration_date": "02-sep-2023",
@@ -6085,8 +6095,8 @@
         "state": "future"
     },
     "yourjavascript.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "yourpokercash.com": {
