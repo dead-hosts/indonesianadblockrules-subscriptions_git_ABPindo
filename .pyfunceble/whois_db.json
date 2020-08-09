@@ -4700,8 +4700,8 @@
         "state": "future"
     },
     "prediksitogeljitu.in": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "prediksitoptogel.com": {
@@ -4832,6 +4832,11 @@
     "qqsenang.net": {
         "epoch": 1616025600.0,
         "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
+    "qqturbo88.org": {
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "r-l.me": {
