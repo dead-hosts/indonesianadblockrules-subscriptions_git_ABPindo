@@ -655,8 +655,8 @@
         "state": "past"
     },
     "astonwin.org": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "astroawani.com": {
@@ -1385,8 +1385,8 @@
         "state": "future"
     },
     "daizurin.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "dapurpacu.com": {
@@ -1875,8 +1875,8 @@
         "state": "future"
     },
     "filmdewasaku.org": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "filmku.net": {
@@ -1930,8 +1930,8 @@
         "state": "future"
     },
     "forumkami.net": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "frpiksdeygy.com": {
@@ -2020,9 +2020,9 @@
         "state": "future"
     },
     "gelorajiwaseks.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "gembelcit.net": {
         "epoch": 1620691200.0,
@@ -2340,8 +2340,8 @@
         "state": "future"
     },
     "idblognetwork.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "idfl.biz": {
@@ -2375,8 +2375,8 @@
         "state": "future"
     },
     "idxx1.top": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "idxxi.co": {
@@ -2532,7 +2532,7 @@
     "indomovies.club": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "indomv.net": {
         "epoch": 1611705600.0,
@@ -2570,8 +2570,8 @@
         "state": "future"
     },
     "indoxx1.art": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "indoxx1.club": {
@@ -2685,8 +2685,8 @@
         "state": "future"
     },
     "istanaimpian1.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "istanaimpian2.com": {
@@ -3360,9 +3360,9 @@
         "state": "future"
     },
     "lk21.rip": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "lk21.tv": {
         "epoch": 1622592000.0,
@@ -3877,7 +3877,7 @@
     "nenenqq.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "neobola.club": {
         "epoch": 1593993600.0,
@@ -3945,8 +3945,8 @@
         "state": "future"
     },
     "nobarfilm21.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "nobartv.com": {
@@ -4205,8 +4205,8 @@
         "state": "future"
     },
     "offerjuice.me": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "ofphanpytor.com": {
@@ -6054,6 +6054,11 @@
         "expiration_date": "06-jan-2023",
         "state": "future"
     },
+    "wp.com": {
+        "epoch": 1616976000.0,
+        "expiration_date": "29-mar-2021",
+        "state": "future"
+    },
     "xjudi.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -6110,9 +6115,9 @@
         "state": "future"
     },
     "ys3e965d.top": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
+        "state": "future"
     },
     "ytssubtitles.com": {
         "epoch": 1621036800.0,
