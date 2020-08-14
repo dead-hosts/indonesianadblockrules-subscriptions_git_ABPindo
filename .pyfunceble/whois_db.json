@@ -465,8 +465,8 @@
         "state": "future"
     },
     "allvegaspoker.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "amoimovie.com": {
@@ -827,7 +827,7 @@
     "bioskop007.club": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bioskop1080.com": {
         "epoch": 1625529600.0,
@@ -885,8 +885,8 @@
         "state": "future"
     },
     "bioskop55.me": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "bioskop78.com": {
@@ -1090,8 +1090,8 @@
         "state": "future"
     },
     "bursajudibola.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "cadaver.org": {
@@ -1625,8 +1625,8 @@
         "state": "future"
     },
     "dunia21.wtf": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "dunia21s.fun": {
@@ -1730,8 +1730,8 @@
         "state": "future"
     },
     "eramuslim.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "estoopsi.com": {
@@ -1765,8 +1765,8 @@
         "state": "future"
     },
     "faktabali.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "fanbangho.com": {
@@ -2990,8 +2990,8 @@
         "state": "future"
     },
     "kazefuri.me": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "kazefuri.web.id": {
@@ -3380,8 +3380,8 @@
         "state": "future"
     },
     "lk21c.fun": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "lk21go.fun": {
@@ -3875,9 +3875,9 @@
         "state": "future"
     },
     "nenenqq.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
-        "state": "past"
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
+        "state": "future"
     },
     "neobola.club": {
         "epoch": 1593993600.0,
@@ -4595,8 +4595,8 @@
         "state": "future"
     },
     "pokerkings.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "pokerlistings.com": {
@@ -5085,9 +5085,9 @@
         "state": "future"
     },
     "semuaberita.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
-        "state": "past"
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "state": "future"
     },
     "senimovie.info": {
         "epoch": 1603152000.0,
