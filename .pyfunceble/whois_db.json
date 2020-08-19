@@ -320,8 +320,8 @@
         "state": "future"
     },
     "adpstatic.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "adreach.co": {
@@ -435,8 +435,8 @@
         "state": "future"
     },
     "ahcnxuepput.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "aj1052.online": {
@@ -610,8 +610,8 @@
         "state": "future"
     },
     "aopxnvrugx.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "aosbobet.com": {
@@ -950,8 +950,8 @@
         "state": "future"
     },
     "bioskoptigalima.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "bioskopxx1.com": {
@@ -1150,8 +1150,8 @@
         "state": "future"
     },
     "cdramabase.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "ceklink.co": {
@@ -1210,9 +1210,9 @@
         "state": "future"
     },
     "cinema-indo.web.id": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "cinema-mkv.com": {
         "epoch": 1616976000.0,
@@ -1495,9 +1495,9 @@
         "state": "future"
     },
     "doathair.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
-        "state": "past"
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
+        "state": "future"
     },
     "dominowalet99.com": {
         "epoch": 1610928000.0,
@@ -1752,7 +1752,7 @@
     "everypoker.com": {
         "epoch": 1597795200.0,
         "expiration_date": "19-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "ewetot.com": {
         "epoch": 1627689600.0,
@@ -2310,8 +2310,8 @@
         "state": "future"
     },
     "hotpokerbonus.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "houseoftoto.com": {
@@ -2940,8 +2940,8 @@
         "state": "future"
     },
     "kabar2.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "kabar24.com": {
@@ -3265,8 +3265,8 @@
         "state": "future"
     },
     "ld82ydd.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "lebahmovie.com": {
@@ -3675,8 +3675,8 @@
         "state": "future"
     },
     "mintedpoker.com": {
-        "epoch": 1597536000.0,
-        "expiration_date": "16-aug-2020",
+        "epoch": 1629072000.0,
+        "expiration_date": "16-aug-2021",
         "state": "future"
     },
     "misterjudi.com": {
@@ -3795,8 +3795,8 @@
         "state": "future"
     },
     "mydramalist.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1660521600.0,
+        "expiration_date": "15-aug-2022",
         "state": "future"
     },
     "mypayingads.com": {
@@ -4095,8 +4095,8 @@
         "state": "future"
     },
     "nontonplus.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "nontonserial.com": {
@@ -4497,6 +4497,11 @@
     "pkzeus.com": {
         "epoch": 1608336000.0,
         "expiration_date": "19-dec-2020",
+        "state": "future"
+    },
+    "planetjudi.com": {
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "planettoto.com": {
@@ -5595,8 +5600,8 @@
         "state": "future"
     },
     "tidnqztumpnk.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "tinfunshe.club": {
