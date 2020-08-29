@@ -1520,10 +1520,10 @@
             "status": "INVALID"
         },
         "asiapoker777.com": {
-            "included_at_epoch": 1596193805.941483,
-            "included_at_iso": "2020-07-31T11:10:05.941483",
-            "last_retested_at_epoch": 1598268173.566446,
-            "last_retested_at_iso": "2020-08-24T11:22:53.566446",
+            "included_at_epoch": 1598700460.347402,
+            "included_at_iso": "2020-08-29T11:27:40.347402",
+            "last_retested_at_epoch": 1598700460.347402,
+            "last_retested_at_iso": "2020-08-29T11:27:40.347402",
             "status": "INACTIVE"
         },
         "asiaqq.": {
@@ -2366,11 +2366,25 @@
             "last_retested_at_iso": "2020-08-24T11:23:08.525299",
             "status": "INVALID"
         },
+        "bokepml.gq": {
+            "included_at_epoch": 1598700460.076778,
+            "included_at_iso": "2020-08-29T11:27:40.076778",
+            "last_retested_at_epoch": 1598700460.076778,
+            "last_retested_at_iso": "2020-08-29T11:27:40.076778",
+            "status": "INACTIVE"
+        },
         "bokeponline.download": {
             "included_at_epoch": 1596971628.753199,
             "included_at_iso": "2020-08-09T11:13:48.753199",
             "last_retested_at_epoch": 1598268171.104809,
             "last_retested_at_iso": "2020-08-24T11:22:51.104809",
+            "status": "INACTIVE"
+        },
+        "bokepvid.club": {
+            "included_at_epoch": 1598700459.97223,
+            "included_at_iso": "2020-08-29T11:27:39.972230",
+            "last_retested_at_epoch": 1598700459.97223,
+            "last_retested_at_iso": "2020-08-29T11:27:39.972230",
             "status": "INACTIVE"
         },
         "bola168.": {
@@ -12570,6 +12584,13 @@
             "included_at_iso": "2020-08-09T11:13:41.850389",
             "last_retested_at_epoch": 1598268163.02943,
             "last_retested_at_iso": "2020-08-24T11:22:43.029430",
+            "status": "INACTIVE"
+        },
+        "www.gilapoker.asia": {
+            "included_at_epoch": 1598700461.214363,
+            "included_at_iso": "2020-08-29T11:27:41.214363",
+            "last_retested_at_epoch": 1598700461.214363,
+            "last_retested_at_iso": "2020-08-29T11:27:41.214363",
             "status": "INACTIVE"
         },
         "www.kozoysnsx.com": {
