@@ -6356,6 +6356,13 @@
             "last_retested_at_iso": "2020-08-24T11:23:28.397132",
             "status": "INVALID"
         },
+        "kkcdn-static.kaskus.co.id": {
+            "included_at_epoch": 1599132243.992084,
+            "included_at_iso": "2020-09-03T11:24:03.992084",
+            "last_retested_at_epoch": 1599132243.992084,
+            "last_retested_at_iso": "2020-09-03T11:24:03.992084",
+            "status": "INACTIVE"
+        },
         "klik66.": {
             "included_at_epoch": 1596972342.145291,
             "included_at_iso": "2020-08-09T11:25:42.145291",
@@ -6949,6 +6956,13 @@
             "included_at_iso": "2020-08-09T11:13:42.880210",
             "last_retested_at_epoch": 1598268164.212705,
             "last_retested_at_iso": "2020-08-24T11:22:44.212705",
+            "status": "INACTIVE"
+        },
+        "lk21.li": {
+            "included_at_epoch": 1599132244.67497,
+            "included_at_iso": "2020-09-03T11:24:04.674970",
+            "last_retested_at_epoch": 1599132244.737103,
+            "last_retested_at_iso": "2020-09-03T11:24:04.737103",
             "status": "INACTIVE"
         },
         "lk21indo.co": {
@@ -8030,10 +8044,10 @@
             "status": "INVALID"
         },
         "nztoto.com": {
-            "included_at_epoch": 1596539032.706741,
-            "included_at_iso": "2020-08-04T11:03:52.706741",
-            "last_retested_at_epoch": 1598268174.985271,
-            "last_retested_at_iso": "2020-08-24T11:22:54.985271",
+            "included_at_epoch": 1599132246.321439,
+            "included_at_iso": "2020-09-03T11:24:06.321439",
+            "last_retested_at_epoch": 1599132246.321439,
+            "last_retested_at_iso": "2020-09-03T11:24:06.321439",
             "status": "INACTIVE"
         },
         "obat-kuat-sex.": {
@@ -12579,6 +12593,13 @@
             "last_retested_at_iso": "2020-08-24T11:24:00.735351",
             "status": "INACTIVE"
         },
+        "www.cosmogirl.co.id": {
+            "included_at_epoch": 1599132245.160432,
+            "included_at_iso": "2020-09-03T11:24:05.160432",
+            "last_retested_at_epoch": 1599132245.160432,
+            "last_retested_at_iso": "2020-09-03T11:24:05.160432",
+            "status": "INACTIVE"
+        },
         "www.filmdewasa.me": {
             "included_at_epoch": 1596971621.850389,
             "included_at_iso": "2020-08-09T11:13:41.850389",
@@ -12594,10 +12615,10 @@
             "status": "INACTIVE"
         },
         "www.kozoysnsx.com": {
-            "included_at_epoch": 1596539013.431818,
-            "included_at_iso": "2020-08-04T11:03:33.431818",
-            "last_retested_at_epoch": 1598268158.120114,
-            "last_retested_at_iso": "2020-08-24T11:22:38.120114",
+            "included_at_epoch": 1599132243.72837,
+            "included_at_iso": "2020-09-03T11:24:03.728370",
+            "last_retested_at_epoch": 1599132243.72837,
+            "last_retested_at_iso": "2020-09-03T11:24:03.728370",
             "status": "INACTIVE"
         },
         "www.markasvip.com": {
@@ -12622,10 +12643,10 @@
             "status": "INACTIVE"
         },
         "www.zuyejecgb.com": {
-            "included_at_epoch": 1596539013.470671,
-            "included_at_iso": "2020-08-04T11:03:33.470671",
-            "last_retested_at_epoch": 1598268158.147061,
-            "last_retested_at_iso": "2020-08-24T11:22:38.147061",
+            "included_at_epoch": 1599132243.755842,
+            "included_at_iso": "2020-09-03T11:24:03.755842",
+            "last_retested_at_epoch": 1599132243.755842,
+            "last_retested_at_iso": "2020-09-03T11:24:03.755842",
             "status": "INACTIVE"
         },
         "www1.lk-21.me": {
