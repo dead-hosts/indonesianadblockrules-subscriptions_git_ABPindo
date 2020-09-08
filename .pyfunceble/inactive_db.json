@@ -1953,6 +1953,13 @@
             "last_retested_at_iso": "2020-09-08T11:29:45.742394",
             "status": "INVALID"
         },
+        "bangun3.com": {
+            "included_at_epoch": 1599564814.564903,
+            "included_at_iso": "2020-09-08T11:33:34.564903",
+            "last_retested_at_epoch": 1599564814.564903,
+            "last_retested_at_iso": "2020-09-08T11:33:34.564903",
+            "status": "INACTIVE"
+        },
         "barakjudi.": {
             "included_at_epoch": 1599564585.750195,
             "included_at_iso": "2020-09-08T11:29:45.750195",
@@ -3017,6 +3024,20 @@
             "last_retested_at_iso": "2020-09-08T11:29:47.365957",
             "status": "INVALID"
         },
+        "copyright-reform.info": {
+            "included_at_epoch": 1599564814.626987,
+            "included_at_iso": "2020-09-08T11:33:34.626987",
+            "last_retested_at_epoch": 1599564814.626987,
+            "last_retested_at_iso": "2020-09-08T11:33:34.626987",
+            "status": "INACTIVE"
+        },
+        "cshacks.partycat.us": {
+            "included_at_epoch": 1599564814.681201,
+            "included_at_iso": "2020-09-08T11:33:34.681201",
+            "last_retested_at_epoch": 1599564814.681201,
+            "last_retested_at_iso": "2020-09-08T11:33:34.681201",
+            "status": "INACTIVE"
+        },
         "cyakibet.": {
             "included_at_epoch": 1599564587.374968,
             "included_at_iso": "2020-09-08T11:29:47.374968",
@@ -3037,6 +3058,13 @@
             "last_retested_at_epoch": 1599564587.413924,
             "last_retested_at_iso": "2020-09-08T11:29:47.413924",
             "status": "INVALID"
+        },
+        "cyberscat.com": {
+            "included_at_epoch": 1599564814.653731,
+            "included_at_iso": "2020-09-08T11:33:34.653731",
+            "last_retested_at_epoch": 1599564814.653731,
+            "last_retested_at_iso": "2020-09-08T11:33:34.653731",
+            "status": "INACTIVE"
         },
         "dadubets.": {
             "included_at_epoch": 1599564587.423018,
@@ -4557,6 +4585,13 @@
             "last_retested_at_iso": "2020-09-08T11:29:50.535535",
             "status": "INVALID"
         },
+        "howtotroll.org": {
+            "included_at_epoch": 1599564814.779107,
+            "included_at_iso": "2020-09-08T11:33:34.779107",
+            "last_retested_at_epoch": 1599564814.779107,
+            "last_retested_at_iso": "2020-09-08T11:33:34.779107",
+            "status": "INACTIVE"
+        },
         "hoya-jackpot.": {
             "included_at_epoch": 1599564590.547521,
             "included_at_iso": "2020-09-08T11:29:50.547521",
@@ -6048,6 +6083,13 @@
             "last_retested_at_iso": "2020-09-08T11:29:54.312473",
             "status": "INVALID"
         },
+        "junecleeland.com": {
+            "included_at_epoch": 1599564814.819509,
+            "included_at_iso": "2020-09-08T11:33:34.819509",
+            "last_retested_at_epoch": 1599564814.819509,
+            "last_retested_at_iso": "2020-09-08T11:33:34.819509",
+            "status": "INACTIVE"
+        },
         "kabarviral.blog": {
             "included_at_epoch": 1599564582.525648,
             "included_at_iso": "2020-09-08T11:29:42.525648",
@@ -6236,6 +6278,13 @@
             "last_retested_at_epoch": 1599564594.898255,
             "last_retested_at_iso": "2020-09-08T11:29:54.898255",
             "status": "INVALID"
+        },
+        "killerijo.net": {
+            "included_at_epoch": 1599564814.860255,
+            "included_at_iso": "2020-09-08T11:33:34.860255",
+            "last_retested_at_epoch": 1599564814.860255,
+            "last_retested_at_iso": "2020-09-08T11:33:34.860255",
+            "status": "INACTIVE"
         },
         "king368.": {
             "included_at_epoch": 1599564594.913666,
@@ -8231,6 +8280,13 @@
             "last_retested_at_epoch": 1599564601.252114,
             "last_retested_at_iso": "2020-09-08T11:30:01.252114",
             "status": "INVALID"
+        },
+        "oralse.ca": {
+            "included_at_epoch": 1599564814.944114,
+            "included_at_iso": "2020-09-08T11:33:34.944114",
+            "last_retested_at_epoch": 1599564814.944114,
+            "last_retested_at_iso": "2020-09-08T11:33:34.944114",
+            "status": "INACTIVE"
         },
         "orientalpoker.": {
             "included_at_epoch": 1599564601.273178,
@@ -11850,6 +11906,13 @@
             "last_retested_at_epoch": 1599564616.563569,
             "last_retested_at_iso": "2020-09-08T11:30:16.563569",
             "status": "INVALID"
+        },
+        "tubgirl.org": {
+            "included_at_epoch": 1599564815.072254,
+            "included_at_iso": "2020-09-08T11:33:35.072254",
+            "last_retested_at_epoch": 1599564815.072254,
+            "last_retested_at_iso": "2020-09-08T11:33:35.072254",
+            "status": "INACTIVE"
         },
         "tugupoker.": {
             "included_at_epoch": 1599564616.590019,
