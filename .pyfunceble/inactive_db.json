@@ -497,6 +497,13 @@
             "last_retested_at_iso": "2020-09-08T11:29:44.056775",
             "status": "INVALID"
         },
+        "adscpm.site": {
+            "included_at_epoch": 1599996571.074514,
+            "included_at_iso": "2020-09-13T11:29:31.074514",
+            "last_retested_at_epoch": 1599996571.074514,
+            "last_retested_at_iso": "2020-09-13T11:29:31.074514",
+            "status": "INACTIVE"
+        },
         "adskartu66.": {
             "included_at_epoch": 1599564584.061035,
             "included_at_iso": "2020-09-08T11:29:44.061035",
@@ -3753,10 +3760,10 @@
             "status": "INVALID"
         },
         "dunia21.cx": {
-            "included_at_epoch": 1597403749.824928,
-            "included_at_iso": "2020-08-14T11:15:49.824928",
-            "last_retested_at_epoch": 1598268165.738852,
-            "last_retested_at_iso": "2020-08-24T11:22:45.738852",
+            "included_at_epoch": 1599996571.989545,
+            "included_at_iso": "2020-09-13T11:29:31.989545",
+            "last_retested_at_epoch": 1599996572.252914,
+            "last_retested_at_iso": "2020-09-13T11:29:32.252914",
             "status": "INACTIVE"
         },
         "duniaagenjudi.": {
@@ -3823,10 +3830,10 @@
             "status": "INVALID"
         },
         "dzbx8qv1at614.cloudfront.net": {
-            "included_at_epoch": 1597403740.941358,
-            "included_at_iso": "2020-08-14T11:15:40.941358",
-            "last_retested_at_epoch": 1598268156.145016,
-            "last_retested_at_iso": "2020-08-24T11:22:36.145016",
+            "included_at_epoch": 1599996571.151585,
+            "included_at_iso": "2020-09-13T11:29:31.151585",
+            "last_retested_at_epoch": 1599996571.151585,
+            "last_retested_at_iso": "2020-09-13T11:29:31.151585",
             "status": "INACTIVE"
         },
         "earneasycash.": {
@@ -4353,6 +4360,13 @@
             "last_retested_at_epoch": 1599564590.032409,
             "last_retested_at_iso": "2020-09-08T11:29:50.032409",
             "status": "INVALID"
+        },
+        "hasiltogel.club": {
+            "included_at_epoch": 1599996573.644873,
+            "included_at_iso": "2020-09-13T11:29:33.644873",
+            "last_retested_at_epoch": 1599996573.644873,
+            "last_retested_at_iso": "2020-09-13T11:29:33.644873",
+            "status": "INACTIVE"
         },
         "hdp365.": {
             "included_at_epoch": 1599564590.04387,
