@@ -4102,13 +4102,6 @@
             "last_retested_at_iso": "2020-09-08T11:29:49.527921",
             "status": "INVALID"
         },
-        "ganool.st": {
-            "included_at_epoch": 1597835996.216802,
-            "included_at_iso": "2020-08-19T11:19:56.216802",
-            "last_retested_at_epoch": 1598268168.219492,
-            "last_retested_at_iso": "2020-08-24T11:22:48.219492",
-            "status": "INACTIVE"
-        },
         "ganoollk21.info": {
             "included_at_epoch": 1599564582.145042,
             "included_at_iso": "2020-09-08T11:29:42.145042",
@@ -12566,10 +12559,10 @@
             "status": "INVALID"
         },
         "www.6qpoker99a.com": {
-            "included_at_epoch": 1597836068.940123,
-            "included_at_iso": "2020-08-19T11:21:08.940123",
-            "last_retested_at_epoch": 1598268240.735351,
-            "last_retested_at_iso": "2020-08-24T11:24:00.735351",
+            "included_at_epoch": 1600428782.078148,
+            "included_at_iso": "2020-09-18T11:33:02.078148",
+            "last_retested_at_epoch": 1600428782.078148,
+            "last_retested_at_iso": "2020-09-18T11:33:02.078148",
             "status": "INACTIVE"
         },
         "www.cosmogirl.co.id": {
