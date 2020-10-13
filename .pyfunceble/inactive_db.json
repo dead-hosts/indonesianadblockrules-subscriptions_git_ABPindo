@@ -1121,11 +1121,11 @@
             "status": "INVALID"
         },
         "adscpm.site": {
-            "included_at_epoch": 1599996571.074514,
-            "included_at_iso": "2020-09-13T11:29:31.074514",
-            "last_retested_at_epoch": 1599996571.074514,
-            "last_retested_at_iso": "2020-09-13T11:29:31.074514",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602588772.937171,
+            "included_at_iso": "2020-10-13T11:32:52.937171",
+            "last_retested_at_epoch": 1602588772.937171,
+            "last_retested_at_iso": "2020-10-13T11:32:52.937171",
+            "status": "ACTIVE"
         },
         "adshost.site": {
             "included_at_epoch": 1601293188.458087,
@@ -6217,10 +6217,10 @@
             "status": "INVALID"
         },
         "dunia21.cx": {
-            "included_at_epoch": 1599996571.989545,
-            "included_at_iso": "2020-09-13T11:29:31.989545",
-            "last_retested_at_epoch": 1599996572.252914,
-            "last_retested_at_iso": "2020-09-13T11:29:32.252914",
+            "included_at_epoch": 1602588773.102044,
+            "included_at_iso": "2020-10-13T11:32:53.102044",
+            "last_retested_at_epoch": 1602588773.19431,
+            "last_retested_at_iso": "2020-10-13T11:32:53.194310",
             "status": "INACTIVE"
         },
         "dunia21.ltd": {
@@ -6413,10 +6413,10 @@
             "status": "ACTIVE"
         },
         "dzbx8qv1at614.cloudfront.net": {
-            "included_at_epoch": 1599996571.151585,
-            "included_at_iso": "2020-09-13T11:29:31.151585",
-            "last_retested_at_epoch": 1599996571.151585,
-            "last_retested_at_iso": "2020-09-13T11:29:31.151585",
+            "included_at_epoch": 1602588772.998189,
+            "included_at_iso": "2020-10-13T11:32:52.998189",
+            "last_retested_at_epoch": 1602588772.998189,
+            "last_retested_at_iso": "2020-10-13T11:32:52.998189",
             "status": "INACTIVE"
         },
         "e7393e33565ce805.com": {
@@ -7736,11 +7736,11 @@
             "status": "INVALID"
         },
         "hasiltogel.club": {
-            "included_at_epoch": 1599996573.644873,
-            "included_at_iso": "2020-09-13T11:29:33.644873",
-            "last_retested_at_epoch": 1599996573.644873,
-            "last_retested_at_iso": "2020-09-13T11:29:33.644873",
-            "status": "INACTIVE"
+            "included_at_epoch": 1602588773.298686,
+            "included_at_iso": "2020-10-13T11:32:53.298686",
+            "last_retested_at_epoch": 1602588773.298686,
+            "last_retested_at_iso": "2020-10-13T11:32:53.298686",
+            "status": "ACTIVE"
         },
         "hdfree.se": {
             "included_at_epoch": 1601293214.949831,
@@ -11788,6 +11788,13 @@
             "last_retested_at_iso": "2020-10-08T11:37:25.313782",
             "status": "INVALID"
         },
+        "ligaciputra3.com": {
+            "included_at_epoch": 1602588773.241405,
+            "included_at_iso": "2020-10-13T11:32:53.241405",
+            "last_retested_at_epoch": 1602588773.352073,
+            "last_retested_at_iso": "2020-10-13T11:32:53.352073",
+            "status": "ACTIVE"
+        },
         "ligadewa.": {
             "included_at_epoch": 1602157045.349567,
             "included_at_iso": "2020-10-08T11:37:25.349567",
@@ -12241,6 +12248,13 @@
             "included_at_iso": "2020-09-28T11:40:43.234914",
             "last_retested_at_epoch": 1601293243.234914,
             "last_retested_at_iso": "2020-09-28T11:40:43.234914",
+            "status": "ACTIVE"
+        },
+        "lugtardam.com": {
+            "included_at_epoch": 1602588773.042874,
+            "included_at_iso": "2020-10-13T11:32:53.042874",
+            "last_retested_at_epoch": 1602588773.042874,
+            "last_retested_at_iso": "2020-10-13T11:32:53.042874",
             "status": "ACTIVE"
         },
         "lusuh.com": {
