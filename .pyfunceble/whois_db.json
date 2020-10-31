@@ -1804,6 +1804,12 @@
         "server": "whois.nic.us",
         "state": "future"
     },
+    "dwscr.xyz": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "e7393e33565ce805.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
