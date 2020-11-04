@@ -18466,6 +18466,13 @@
             "last_retested_at_iso": "2020-10-26T12:15:37.954538",
             "status": "ACTIVE"
         },
+        "sport338.net": {
+            "included_at_epoch": 1604490955.741093,
+            "included_at_iso": "2020-11-04T11:55:55.741093",
+            "last_retested_at_epoch": 1604490955.741093,
+            "last_retested_at_iso": "2020-11-04T11:55:55.741093",
+            "status": "ACTIVE"
+        },
         "sportmarket88.": {
             "included_at_epoch": 1602157072.646602,
             "included_at_iso": "2020-10-08T11:37:52.646602",
@@ -21139,6 +21146,13 @@
             "last_retested_at_epoch": 1602157085.453507,
             "last_retested_at_iso": "2020-10-08T11:38:05.453507",
             "status": "INVALID"
+        },
+        "w88mania.com": {
+            "included_at_epoch": 1604490955.801374,
+            "included_at_iso": "2020-11-04T11:55:55.801374",
+            "last_retested_at_epoch": 1604490955.801374,
+            "last_retested_at_iso": "2020-11-04T11:55:55.801374",
+            "status": "ACTIVE"
         },
         "wahanabet.": {
             "included_at_epoch": 1602157085.500466,

@@ -5760,6 +5760,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "sport338.net": {
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sq881sq.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -6508,6 +6514,12 @@
     "vrewpywootyu.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "w88mania.com": {
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "walkthedinosaur.com": {
