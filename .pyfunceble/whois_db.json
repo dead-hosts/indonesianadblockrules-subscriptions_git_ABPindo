@@ -1252,8 +1252,8 @@
         "state": "future"
     },
     "cerpen.co.id": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
         "server": "whois.id",
         "state": "future"
     },
@@ -1419,6 +1419,12 @@
     "cyberjudi.com": {
         "epoch": 1632182400.0,
         "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "cyberscat.com": {
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -2125,6 +2131,12 @@
         "epoch": 1633996800.0,
         "expiration_date": "12-oct-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ganol.si": {
+        "epoch": 1640476800.0,
+        "expiration_date": "26-dec-2021",
+        "server": "whois.register.si",
         "state": "future"
     },
     "ganool.is": {
@@ -3531,10 +3543,10 @@
         "state": "future"
     },
     "layarxxi.online": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
         "server": "whois.nic.online",
-        "state": "past"
+        "state": "future"
     },
     "lazacasino.com": {
         "epoch": 1622592000.0,
@@ -4727,8 +4739,8 @@
         "state": "future"
     },
     "otosia.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -4843,6 +4855,12 @@
     "pc3ads.com": {
         "epoch": 1607472000.0,
         "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
+    "peevopoy.com": {
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pelakor.org": {
@@ -5101,6 +5119,12 @@
     "pondoktogel.com": {
         "epoch": 1620345600.0,
         "expiration_date": "07-may-2021",
+        "state": "future"
+    },
+    "pontianakpost.co.id": {
+        "epoch": 1654732800.0,
+        "expiration_date": "09-jun-2022",
+        "server": "whois.id",
         "state": "future"
     },
     "popclck.net": {
