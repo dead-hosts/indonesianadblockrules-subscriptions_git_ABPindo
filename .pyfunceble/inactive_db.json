@@ -784,6 +784,13 @@
             "last_retested_at_iso": "2020-10-26T12:14:57.610889",
             "status": "ACTIVE"
         },
+        "978bet13.com": {
+            "included_at_epoch": 1605615241.342951,
+            "included_at_iso": "2020-11-17T12:14:01.342951",
+            "last_retested_at_epoch": 1605615241.342951,
+            "last_retested_at_iso": "2020-11-17T12:14:01.342951",
+            "status": "ACTIVE"
+        },
         "988bet.": {
             "included_at_epoch": 1604923556.331172,
             "included_at_iso": "2020-11-09T12:05:56.331172",
@@ -21631,10 +21638,10 @@
             "status": "INVALID"
         },
         "www.6qpoker99a.com": {
-            "included_at_epoch": 1602934475.846799,
-            "included_at_iso": "2020-10-17T11:34:35.846799",
-            "last_retested_at_epoch": 1602934475.846799,
-            "last_retested_at_iso": "2020-10-17T11:34:35.846799",
+            "included_at_epoch": 1605615241.404436,
+            "included_at_iso": "2020-11-17T12:14:01.404436",
+            "last_retested_at_epoch": 1605615241.404436,
+            "last_retested_at_iso": "2020-11-17T12:14:01.404436",
             "status": "INACTIVE"
         },
         "www.6qpoker99c.com": {
