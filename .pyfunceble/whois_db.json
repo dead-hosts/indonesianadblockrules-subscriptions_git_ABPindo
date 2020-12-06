@@ -6631,6 +6631,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "vipfc88.com": {
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "viplexus88.com": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",

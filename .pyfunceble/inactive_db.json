@@ -18502,10 +18502,10 @@
             "status": "ACTIVE"
         },
         "sport338.net": {
-            "included_at_epoch": 1604490955.741093,
-            "included_at_iso": "2020-11-04T11:55:55.741093",
-            "last_retested_at_epoch": 1604490955.741093,
-            "last_retested_at_iso": "2020-11-04T11:55:55.741093",
+            "included_at_epoch": 1607256100.98576,
+            "included_at_iso": "2020-12-06T12:01:40.985760",
+            "last_retested_at_epoch": 1607256100.98576,
+            "last_retested_at_iso": "2020-12-06T12:01:40.985760",
             "status": "ACTIVE"
         },
         "sportmarket88.": {
@@ -21077,6 +21077,13 @@
             "last_retested_at_iso": "2020-11-09T12:07:08.263689",
             "status": "INVALID"
         },
+        "vipfc88.com": {
+            "included_at_epoch": 1607256101.029388,
+            "included_at_iso": "2020-12-06T12:01:41.029388",
+            "last_retested_at_epoch": 1607256101.029388,
+            "last_retested_at_iso": "2020-12-06T12:01:41.029388",
+            "status": "ACTIVE"
+        },
         "viplexus88.com": {
             "included_at_epoch": 1606394870.764221,
             "included_at_iso": "2020-11-26T12:47:50.764221",
@@ -21183,10 +21190,10 @@
             "status": "INVALID"
         },
         "w88mania.com": {
-            "included_at_epoch": 1604490955.801374,
-            "included_at_iso": "2020-11-04T11:55:55.801374",
-            "last_retested_at_epoch": 1604490955.801374,
-            "last_retested_at_iso": "2020-11-04T11:55:55.801374",
+            "included_at_epoch": 1607256101.084131,
+            "included_at_iso": "2020-12-06T12:01:41.084131",
+            "last_retested_at_epoch": 1607256101.084131,
+            "last_retested_at_iso": "2020-12-06T12:01:41.084131",
             "status": "ACTIVE"
         },
         "wahanabet.": {
@@ -21770,6 +21777,13 @@
             "last_retested_at_iso": "2020-11-22T11:52:10.000980",
             "status": "ACTIVE"
         },
+        "www.hkbgoodluck88.com": {
+            "included_at_epoch": 1607256100.942316,
+            "included_at_iso": "2020-12-06T12:01:40.942316",
+            "last_retested_at_epoch": 1607256100.942316,
+            "last_retested_at_iso": "2020-12-06T12:01:40.942316",
+            "status": "ACTIVE"
+        },
         "www.hobikartu.xyz": {
             "included_at_epoch": 1606394871.143389,
             "included_at_iso": "2020-11-26T12:47:51.143389",
@@ -21782,6 +21796,20 @@
             "included_at_iso": "2020-11-26T12:47:51.101420",
             "last_retested_at_epoch": 1606394871.10142,
             "last_retested_at_iso": "2020-11-26T12:47:51.101420",
+            "status": "ACTIVE"
+        },
+        "www.ituqqwd.com": {
+            "included_at_epoch": 1607256100.851659,
+            "included_at_iso": "2020-12-06T12:01:40.851659",
+            "last_retested_at_epoch": 1607256100.851659,
+            "last_retested_at_iso": "2020-12-06T12:01:40.851659",
+            "status": "ACTIVE"
+        },
+        "www.ituvipwd.com": {
+            "included_at_epoch": 1607256100.897734,
+            "included_at_iso": "2020-12-06T12:01:40.897734",
+            "last_retested_at_epoch": 1607256100.897734,
+            "last_retested_at_iso": "2020-12-06T12:01:40.897734",
             "status": "ACTIVE"
         },
         "www.k9win-id3.com": {
