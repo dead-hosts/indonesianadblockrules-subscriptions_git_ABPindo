@@ -995,6 +995,12 @@
         "expiration_date": "02-feb-2021",
         "state": "future"
     },
+    "bioskop99.me": {
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.nic.me",
+        "state": "future"
+    },
     "bioskop99.mobi": {
         "epoch": 1626307200.0,
         "expiration_date": "15-jul-2021",
@@ -1437,10 +1443,10 @@
         "state": "future"
     },
     "cosmogirl.co.id": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
         "server": "whois.id",
-        "state": "past"
+        "state": "future"
     },
     "craydark.pw": {
         "epoch": 1612396800.0,
@@ -2058,8 +2064,8 @@
         "state": "future"
     },
     "filmdewasa.me": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
         "server": "whois.nic.me",
         "state": "future"
     },
@@ -3192,8 +3198,8 @@
         "state": "future"
     },
     "juragan-anime.net": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3703,6 +3709,12 @@
     "liputan6.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "lk-21.me": {
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "lk21.cam": {
@@ -4510,7 +4522,7 @@
         "epoch": 1606262400.0,
         "expiration_date": "25-nov-2020",
         "server": "whois.nic.co",
-        "state": "future"
+        "state": "past"
     },
     "nontonfilm77.com": {
         "epoch": 1620864000.0,
@@ -4716,8 +4728,8 @@
         "state": "future"
     },
     "olenation.org": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.pir.org",
         "state": "future"
     },
@@ -5687,6 +5699,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "serbada.com": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "serbapromo.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -6309,6 +6327,12 @@
     "togelangka.com": {
         "epoch": 1613865600.0,
         "expiration_date": "21-feb-2021",
+        "state": "future"
+    },
+    "togelcenter.com": {
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "togelholic.com": {
