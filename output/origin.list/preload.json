@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/indonesianadblockrules-subscriptions_git_ABPindo/indonesianadblockrules-subscriptions_git_ABPindo/origin.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "origin.list",
+    "hash": "018b2b30c7250e7e15d9494891384baabf1ef7c14c3d8fd24aee427d",
+    "line_number": 8610,
+    "output_dir": "/home/runner/work/indonesianadblockrules-subscriptions_git_ABPindo/indonesianadblockrules-subscriptions_git_ABPindo/output/origin.list",
+    "previous_hash": "018b2b30c7250e7e15d9494891384baabf1ef7c14c3d8fd24aee427d",
+    "rel_source": "origin.list",
+    "session_id": "1f9691d2629fe42d1bca02c7",
+    "source": "/home/runner/work/indonesianadblockrules-subscriptions_git_ABPindo/indonesianadblockrules-subscriptions_git_ABPindo/origin.list",
+    "subject": "/home/runner/work/indonesianadblockrules-subscriptions_git_ABPindo/indonesianadblockrules-subscriptions_git_ABPindo/origin.list",
+    "subject_type": "domain",
+    "type": "file"
+}
