@@ -1,14 +1,10 @@
 {
     "counter": {
-        "Internet Domain Service BS Corp": 1,
-        "NameCheap, Inc.": 3,
-        "Porkbun LLC": 1,
-        "total": 5
+        "Media Elite Holdings Limited": 1,
+        "total": 1
     },
     "percentage": {
-        "Internet Domain Service BS Corp": 20.0,
-        "NameCheap, Inc.": 60.0,
-        "Porkbun LLC": 20.0,
+        "Media Elite Holdings Limited": 100.0,
         "total": 100.0
     }
 }
