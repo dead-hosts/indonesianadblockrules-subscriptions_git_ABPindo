@@ -1,34 +1,12 @@
 {
     "counter": {
-        "101domain GRS Limited": 1,
-        "CV. Rumahweb Indonesia": 2,
-        "CloudFlare, Inc.": 1,
-        "Dynadot, LLC": 1,
-        "GoDaddy.com, LLC": 4,
-        "Hongkong Domain Name Information Management Co., Limited": 1,
-        "INDOREG": 2,
-        "Jagat Informasi Solusi (int)": 1,
-        "Name.com, Inc.": 2,
-        "NameCheap, Inc.": 3,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 1,
-        "PT Registrasi Nama Domain": 1,
-        "Web Commerce Communications Limited dba WebNic.cc": 1,
-        "total": 21
+        "CommuniGal Communication Ltd.": 1,
+        "Namecheap": 1,
+        "total": 2
     },
     "percentage": {
-        "101domain GRS Limited": 4.761904761904762,
-        "CV. Rumahweb Indonesia": 9.523809523809524,
-        "CloudFlare, Inc.": 4.761904761904762,
-        "Dynadot, LLC": 4.761904761904762,
-        "GoDaddy.com, LLC": 19.047619047619047,
-        "Hongkong Domain Name Information Management Co., Limited": 4.761904761904762,
-        "INDOREG": 9.523809523809524,
-        "Jagat Informasi Solusi (int)": 4.761904761904762,
-        "Name.com, Inc.": 9.523809523809524,
-        "NameCheap, Inc.": 14.285714285714286,
-        "PDR Ltd. d/b/a PublicDomainRegistry.com": 4.761904761904762,
-        "PT Registrasi Nama Domain": 4.761904761904762,
-        "Web Commerce Communications Limited dba WebNic.cc": 4.761904761904762,
-        "total": 99.99999999999999
+        "CommuniGal Communication Ltd.": 50.0,
+        "Namecheap": 50.0,
+        "total": 100.0
     }
 }
