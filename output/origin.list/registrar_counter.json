@@ -1,10 +1,12 @@
 {
     "counter": {
-        "PT ARDH GLOBAL INDONESIA": 1,
-        "total": 1
+        "Media Elite Holdings Limited": 1,
+        "NameCheap, Inc.": 1,
+        "total": 2
     },
     "percentage": {
-        "PT ARDH GLOBAL INDONESIA": 100.0,
+        "Media Elite Holdings Limited": 50.0,
+        "NameCheap, Inc.": 50.0,
         "total": 100.0
     }
 }
