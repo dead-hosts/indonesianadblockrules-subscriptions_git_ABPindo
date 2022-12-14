@@ -1,0 +1,22 @@
+{
+    "counter": {
+        "101domain GRS Limited": 1,
+        "Digital Registra": 1,
+        "Dynadot, LLC": 1,
+        "GoDaddy.com, LLC": 2,
+        "Jagat Informasi Solusi (int)": 1,
+        "Name.com, Inc.": 1,
+        "NameCheap, Inc.": 3,
+        "total": 10
+    },
+    "percentage": {
+        "101domain GRS Limited": 10.0,
+        "Digital Registra": 10.0,
+        "Dynadot, LLC": 10.0,
+        "GoDaddy.com, LLC": 20.0,
+        "Jagat Informasi Solusi (int)": 10.0,
+        "Name.com, Inc.": 10.0,
+        "NameCheap, Inc.": 30.0,
+        "total": 100.0
+    }
+}
