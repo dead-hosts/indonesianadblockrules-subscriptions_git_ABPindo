@@ -1,0 +1,18 @@
+{
+    "counter": {
+        "Dynadot, LLC": 1,
+        "GoDaddy.com, LLC": 1,
+        "Jagat Informasi Solusi (int)": 1,
+        "Name.com, Inc.": 3,
+        "NameCheap, Inc.": 3,
+        "total": 9
+    },
+    "percentage": {
+        "Dynadot, LLC": 11.11111111111111,
+        "GoDaddy.com, LLC": 11.11111111111111,
+        "Jagat Informasi Solusi (int)": 11.11111111111111,
+        "Name.com, Inc.": 33.333333333333336,
+        "NameCheap, Inc.": 33.333333333333336,
+        "total": 100.0
+    }
+}
