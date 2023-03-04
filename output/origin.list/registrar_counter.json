@@ -1,12 +1,14 @@
 {
     "counter": {
-        "CommuniGal Communication Ltd.": 1,
+        "Internet Domain Service BS Corp": 1,
+        "NameCheap, Inc.": 2,
         "Porkbun LLC": 1,
-        "total": 2
+        "total": 4
     },
     "percentage": {
-        "CommuniGal Communication Ltd.": 50.0,
-        "Porkbun LLC": 50.0,
+        "Internet Domain Service BS Corp": 25.0,
+        "NameCheap, Inc.": 50.0,
+        "Porkbun LLC": 25.0,
         "total": 100.0
     }
 }
