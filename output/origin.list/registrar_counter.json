@@ -1,20 +1,14 @@
 {
     "counter": {
-        "Dynadot, LLC": 1,
-        "GoDaddy.com, LLC": 1,
+        "CommuniGal Communication Ltd.": 1,
         "Jagat Informasi Solusi (int)": 1,
-        "Name.com, Inc.": 5,
-        "NameCheap, Inc.": 3,
-        "Namecheap": 1,
-        "total": 12
+        "NameCheap, Inc.": 1,
+        "total": 3
     },
     "percentage": {
-        "Dynadot, LLC": 8.333333333333334,
-        "GoDaddy.com, LLC": 8.333333333333334,
-        "Jagat Informasi Solusi (int)": 8.333333333333334,
-        "Name.com, Inc.": 41.666666666666664,
-        "NameCheap, Inc.": 25.0,
-        "Namecheap": 8.333333333333334,
-        "total": 99.99999999999999
+        "CommuniGal Communication Ltd.": 33.333333333333336,
+        "Jagat Informasi Solusi (int)": 33.333333333333336,
+        "NameCheap, Inc.": 33.333333333333336,
+        "total": 100.0
     }
 }
