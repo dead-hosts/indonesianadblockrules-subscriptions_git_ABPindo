@@ -1,12 +1,12 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 2,
-        "INDOREG": 2,
-        "total": 4
+        "CloudFlare, Inc.": 1,
+        "NameCheap, Inc.": 1,
+        "total": 2
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 50.0,
-        "INDOREG": 50.0,
+        "CloudFlare, Inc.": 50.0,
+        "NameCheap, Inc.": 50.0,
         "total": 100.0
     }
 }
