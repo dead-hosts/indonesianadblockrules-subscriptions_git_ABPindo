@@ -1,12 +1,20 @@
 {
     "counter": {
-        "CloudFlare, Inc.": 1,
-        "NameCheap, Inc.": 1,
-        "total": 2
+        "Domain.com, LLC": 1,
+        "Jagat Informasi Solusi (int)": 1,
+        "NameCheap, Inc.": 3,
+        "Namecheap, Inc.": 1,
+        "TLD Registrar Solutions Ltd": 1,
+        "TLD Registrar Solutions Ltd.": 1,
+        "total": 8
     },
     "percentage": {
-        "CloudFlare, Inc.": 50.0,
-        "NameCheap, Inc.": 50.0,
+        "Domain.com, LLC": 12.5,
+        "Jagat Informasi Solusi (int)": 12.5,
+        "NameCheap, Inc.": 37.5,
+        "Namecheap, Inc.": 12.5,
+        "TLD Registrar Solutions Ltd": 12.5,
+        "TLD Registrar Solutions Ltd.": 12.5,
         "total": 100.0
     }
 }
