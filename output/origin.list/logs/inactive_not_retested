@@ -4515,3 +4515,12 @@ perawanbokep.*
 ||wigobet.com^$third-party
 ||yourpokercash.com^$third-party
 ||yoyopoker.net^$popup
+/modalqq.gif$image
+/vip/rajaelang.gif$image
+/vjudi.gif|$image
+/wigo.gif|$image
+/ahabet.$image,third-party
+/indotogel.$image,third-party
+/totobet.$image,third-party
+semprot.com,semprotku.com
+||emputogel.com^$third-party
