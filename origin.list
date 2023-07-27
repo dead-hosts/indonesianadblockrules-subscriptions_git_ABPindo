@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307220059
+! Version: 202307231331
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 22 Jul 2023 00:59 UTC
+! Last modified: 23 Jul 2023 13:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -478,6 +478,7 @@ iklan300x250.gif|
 ||kdramaindo.*/wp-content/uploads/*.gif$image
 ||kebagi.com/*.gif$image,third-party
 ||kkcdn-static.kaskus.co.id/css_v0.1/img/skin/
+||komikcast.io/wp-content/uploads/*.gif$image,domain=komikcast.io
 ||kompas.com/data/banner/
 ||kotakgame.com/images/bnr/partner/*.jpg
 ||kuyhaa-me.com/meongvpn.js$script,domain=kuyhaa-me.com
@@ -1154,7 +1155,7 @@ harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
 15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser2
-15.235.11.45,22cinema.download,45.12.2.2,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangakita.net,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
+15.235.11.45,22cinema.download,45.12.2.2,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -1234,6 +1235,7 @@ grid.id##.ads__skyscraper
 bolasport.com,gridoto.com##.ads__stick--left
 bolasport.com,gridoto.com##.ads__stick--right
 bolasport.com##.ads__top-big
+www.hops.id##.ads__under__image
 bolasport.com,gridoto.com##.ads_below_photo
 grid.id##.ads_sky
 duwitmu.com##.ads_square_banner
@@ -1428,6 +1430,7 @@ bioskop21.co##.hilang2
 bioskop168.co,semi168.club##.home.border
 filmace21.net##.idmupi-topbanner
 layardrama21.rest##.idmuvi-floatbanner
+samehadaku.skin##.ik-overlay
 nanimex.in##.iklan
 nanimex.org##.iklan-tengah
 suki48.web.id##.iklanSUKI
@@ -1447,7 +1450,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -2241,6 +2244,7 @@ spbet.gif|$image
 suhubola.gif|$image
 totojitu.gif|$image
 ! 
+-slot-gacor$image
 -slot-gacor.$image
 /128cash.$image,third-party
 /188bet.$image,third-party
@@ -2399,6 +2403,7 @@ totojitu.gif|$image
 /garenapoker.$image,third-party
 /garudakiu.$image,third-party
 /garudaqq.$image,third-party
+/GBOSLOT-$image
 /gebyarbola.$image,third-party
 /gebyarliga.$image,third-party
 /gitarpoker-$image
@@ -2465,8 +2470,8 @@ totojitu.gif|$image
 /itubandar.$image,third-party
 /itucasino.$image,third-party
 /itudewa.$image,third-party
-/ituDomino.$image
 /itudomino.$image
+/ituDomino.$image
 /itudomino728.$image,third-party
 /itugol.$image,third-party
 /itupoker.$image,third-party
@@ -2593,6 +2598,7 @@ totojitu.gif|$image
 /nasapoker.$image,third-party
 /neobola.$image,third-party
 /newjaya.$image,third-party
+/NewKaikoSlot.gif$image
 /Newpokerdewa.$image
 /newtexas.$image,third-party
 /nikeqq.$image,third-party
@@ -8669,6 +8675,7 @@ leon.bet#@#[href$="/slots"]
 ||pemersatudotfun.com/ads.js$script
 ||slunkenchukkar.com/nwnJuadwxPHeiD3/52345$script,domain=manhwaid.club
 ||sodasusu.com/banner/
+||wibufile.com/api/beenv^
 ! *** abpindo:src/adult/adult_specific_hide.txt ***
 173.199.167.192,krucil.com,krucil.net###KD_adpB
 pemersatu.top,pemersatudotfun.com#@##adright
