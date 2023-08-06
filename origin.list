@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202307300746
+! Version: 202308051056
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 30 Jul 2023 07:46 UTC
+! Last modified: 05 Aug 2023 10:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -582,9 +582,10 @@ iklan300x250.gif|
 /^https?:\/\/.*\.(jpg|gif|png|php|svg|ico|js|txt)/$popup,domain=bacakomik.co|komikcastid.com|komikstation.co|mangakita.net|wrt.my.id
 ! *** abpindo:src/advert/scriptlet_ublock.txt ***
 doroni.me##+js(acs, getComputedStyle, , cpm)
-info.gambar.pro##+js(nano-sib)
+info.gambar.pro,jenismac.com##+js(nano-sib)
 info.gambar.pro,thejakartapost.com##+js(no-fetch-if, adsbygoogle)
 netq.me##+js(no-fetch-if, clarity.ms)
+jenismac.com##+js(noeval-if, /chp_?ad/)
 netq.me##+js(nostif, console)
 ! *** abpindo:src/advert/allowlist.txt ***
 ! Allowlist for network filters
@@ -1088,6 +1089,7 @@ cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###
 cinema-indo.com,nonton21.net,nontonmovie.web.id###hbanner:nth-of-type(1)
 bioskopkeren.beauty,bioskopkeren.bond,bioskopkeren.sbs###headads
 indosiar.com###headerbanner
+jenismac.com###hello
 indoxxi.top,indoxxi.tv###home-bnner-content
 indoxxi.top###home-bnner2-content
 topfilmz.com###idb3
@@ -1131,6 +1133,7 @@ animasu.nl###lmd-iklan
 kabargames.id###main-banner-middle
 dewabioskop21.org,dwa21.org###main-popup
 sindonews.com###me-div-gpt-ad-parallax
+detik.com###megabillboard-desktop
 dapurpacu.com###mid-banner
 dunia21.cx,ganool.watch,lk21tv.com,movies21.co,terbit21.cafe###middle-banner
 fastdrama.co,hkfree.co###modal
@@ -1152,6 +1155,7 @@ cinema-indo.com,cinemaindo.web.id,layarkaca21.net,layarkaca21.web.id,lk21.org,no
 eramuslim.com###peluang
 idxx1.top###player-side-left
 idxx1.top,indoxx1.com###player-side-right
+kuramanime.xyz###playerOverplay
 indoxx1.pw###popup
 anoboy.digital,anoboy.media,anoboy.watch###popup_bawah
 anoboy.digital,anoboy.media,anoboy.watch###popup_box
@@ -1191,7 +1195,7 @@ harianjogja.com,solopos.com###solopos_float
 detik.com###sto_banner
 15.235.11.45,65.108.132.145,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,film-ganool.co,film-ganool.com,filmroster.online,isekaisubs.web.id,luciferdonghua.in,mangashiro.net,neumanga.tv,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser1
 22cinema.download,65.108.132.145,bioskop201.biz,bioskopgalaxy21.com,bioskopmovie.tv,cinemaindo.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,film-ganool.co,film-ganool.com,filmbaru.in,ganool.nl,ganool.ph,isekaisubs.web.id,komiku.net,luciferdonghua.in,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser2
-15.235.11.45,22cinema.download,45.12.2.2,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
+15.235.11.45,22cinema.download,45.12.2.2,animasu.cc,animexin.xyz,bioskop201.biz,bioskop21.co,bioskopgalaxy21.com,cinemaindo.stream,cinemaindo.tv,downloadfilmbaru.com,filmbaru.in,ganool.nl,ganool.ph,kikil.net,komiku.net,kuramanime.xyz,layarbiru21.com,lmanime.com,luciferdonghua.co.in,luciferdonghua.in,mangakita.net,mangakyo.org,movie76.net,nontonmovie.web.id,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,realmscans.com###teaser3
 22cinema.download###teaser5
 indoxx1.club###tengah
 dunia21.top,lk21.cc###tengah > span
@@ -1301,7 +1305,7 @@ myasiantv.se##.av-content-full
 webdesign.tutsplus.com##.avert
 22cinema.com##.ayu-headads
 139.99.120.222,nonton21.tv,nontonserial.com,ns21.me##.ban_empat
-animebatchs.com,goblintvfree.com,juragan-anime.net,nanime.in##.banner
+animebatchs.com,goblintvfree.com,juragan-anime.net,merdeka.com,nanime.in##.banner
 kompasiana.com##.banner-center
 dewanonton.vip,dwanonton.com##.banner-common
 www.kompasiana.com##.banner-dable.banner
@@ -1504,11 +1508,13 @@ b201.info##.lenyap
 shinigami.id##.lepopup-popup-container
 shinigami.id##.lepopup-popup-loader
 shinigami.id##.lepopup-popup-overlay
+animasu.cc##.lmd-iklan
 haibunda.com#?#.m-r1:-abp-has(#adv-caption-mr1)
 haibunda.com#?#.m-r2:-abp-has(#adv-caption-mr2)
 smartphoneku.com##.margin-right-40.left.pullquotes
 mangacanblog.com##.mas_tamvan
 dream.co.id##.masonry-brick.drm-banner-x.drm-artikel:nth-of-type(3)
+merdeka.com##.masthead
 www.inibaru.id##.mb-4.bg-grey.text-center
 www.kompasiana.com##.mb20.mt20.banner-dable-read.banner
 www.parapuan.co##.mb3.gpt-ad-head-wrapper.widget
@@ -1546,6 +1552,7 @@ cnnindonesia.com##.para_abs
 cnnindonesia.com##.para_fix
 cnnindonesia.com##.paradetail
 idntimes.com,sindonews.com##.parallax-ad
+detik.com##.parallax_abs
 medcom.id##.parallax_ads
 briliofood.net#?#.placeholder-container:-abp-has(.ads-container)
 suara.com##.placeholder_expose
@@ -1592,6 +1599,7 @@ awsubs.co##.sidebar_right
 bioskop90.com,nontonganool.net,sejutafilm.com##.sidebarborder:nth-of-type(2)
 nontonganool.net##.sidebarborder:nth-of-type(4)
 nontonganool.net##.sidebarborder:nth-of-type(5)
+detik.com##.sisip_video_ds
 ninemanga.com##.sitemaji_banner
 detik.com##.skinad_1
 detik.com##.skinad_2
@@ -1664,7 +1672,7 @@ bioskop168.pro##[href^="http://linkalternatif."]
 192.99.70.18##[href^="http://rebrand.ly/"]
 dewantn.com##[href^="http://www.dukungbpjs.com/ref.php"]
 188.166.39.172##[href^="https://137.184.194.29/"]
-139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
+139.99.120.222,185.231.223.76,21filem.co,bioskop45.co,gm21.xyz,gudangmovies21.cfd,kawanfilm21.online,kawanfilm21.pro,kuramanime.xyz,lk21go.fun,mangakita.net,manganime.in,movieajip.online,otakudesu.watch,www.nontondramas.net##[href^="https://bit.ly/"]
 kabarviral.blog,lewat.club##[href^="https://manjur.id/search.php"]
 bioskop168.pro##[href^="https://tinyurl.com/"]
 tirto.id##[id^="gpt-inline"]
@@ -5144,6 +5152,7 @@ totojitu.gif|$image
 ##[href$="/agenbola" i]
 ##[href$="/angelpoker"]
 ##[href$="/arenawin" i]
+##[href$="/asiabokep"]
 ##[href$="/asikspin"]
 ##[href$="/bandarpokerpulsa"]
 ##[href$="/bandarq365"]
@@ -5158,6 +5167,7 @@ totojitu.gif|$image
 ##[href$="/casino"]
 ##[href$="/cewekgenit"]
 ##[href$="/cmd368"]
+##[href$="/cuanbokep"]
 ##[href$="/daftartotosuper"]
 ##[href$="/dorapoker"]
 ##[href$="/duniabet"]
@@ -5167,6 +5177,7 @@ totojitu.gif|$image
 ##[href$="/fastbet99/"]
 ##[href$="/filmlokal"]
 ##[href$="/forslotindo"]
+##[href$="/gacorbokep"]
 ##[href$="/hdpbet"]
 ##[href$="/ibetwinasia"]
 ##[href$="/idncash"]
@@ -5177,6 +5188,7 @@ totojitu.gif|$image
 ##[href$="/itupk"]
 ##[href$="/jambulmemek"]
 ##[href$="/jayapokerbanner"]
+##[href$="/joinbokep"]
 ##[href$="/jokerbet"]
 ##[href$="/josbet"]
 ##[href$="/kartu66"]
@@ -5794,6 +5806,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="http://kartudomino."]
 ##[href^="http://kartuhokky."]
 ##[href^="http://kartuking."]
+##[href^="http://kartupk.me/"]
 ##[href^="http://kartuqq."]
 ##[href^="http://kasinobet."]
 ##[href^="http://kayatogel."]
@@ -8780,7 +8793,7 @@ sebokep.com##.lazyloaded.ads-50
 nontonbokeps.com##.mask-ads
 susterbokep.com##.overlay
 agenbokep.co##.pop-overlay
-agenbokep.co##.popbox
+agenbokep.co,agenbokep.pro##.popbox
 bokepml.online##.s-sponsor
 ibugil.net##.semprotpokemon_1
 ibugil.net##.semprotpokemon_2
@@ -8797,9 +8810,10 @@ anoboy.ink##[href="https://klik.gg/anoboy"]
 anoboy.ink##[href="https://klik.gg/anoboyvip"]
 manhwadesu.org##[href="https://klik.gg/manhwadesu"]
 xtubecinema.club##[href^="/GoUrl.php?ads="]
-139.99.33.205##[href^="https://bit.ly/"]
+139.99.33.205,pecintabokep.club##[href^="https://bit.ly/"]
 slurr.my.id##[href^="https://scratchy-trick.com/"]
 semprot.com,semprotku.com##a[href^="http://bit.ly/"]
+pecintabokep.club##a[target="_blank"][rel="nofollow"] > img[src$=".gif"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="adsgen"]
 nekopoi.care,nekopoi.cash,nekopoi.lol##div[class^="mobileads"]
 ! *** abpindo:src/adult/adult_thirdparty.txt ***
