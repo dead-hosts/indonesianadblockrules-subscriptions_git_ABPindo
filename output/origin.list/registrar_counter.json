@@ -1,10 +1,14 @@
 {
     "counter": {
-        "NameCheap, Inc.": 4,
-        "total": 4
+        "NameCheap, Inc.": 2,
+        "Namecheap": 4,
+        "Porkbun LLC": 2,
+        "total": 8
     },
     "percentage": {
-        "NameCheap, Inc.": 100.0,
+        "NameCheap, Inc.": 25.0,
+        "Namecheap": 50.0,
+        "Porkbun LLC": 25.0,
         "total": 100.0
     }
 }
