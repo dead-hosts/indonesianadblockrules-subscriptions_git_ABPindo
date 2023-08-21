@@ -1,0 +1,28 @@
+{
+    "counter": {
+        "CV. Rumahweb Indonesia": 2,
+        "CommuniGal Communication Ltd.": 2,
+        "Dynadot, LLC": 2,
+        "GoDaddy.com, LLC": 4,
+        "Internet Domain Service BS Corp": 2,
+        "Jagat Informasi Solusi (int)": 2,
+        "Name.com, Inc.": 6,
+        "NameCheap, Inc.": 20,
+        "Namecheap": 2,
+        "TLD Registrar Solutions Ltd.": 2,
+        "total": 44
+    },
+    "percentage": {
+        "CV. Rumahweb Indonesia": 4.545454545454546,
+        "CommuniGal Communication Ltd.": 4.545454545454546,
+        "Dynadot, LLC": 4.545454545454546,
+        "GoDaddy.com, LLC": 9.090909090909092,
+        "Internet Domain Service BS Corp": 4.545454545454546,
+        "Jagat Informasi Solusi (int)": 4.545454545454546,
+        "Name.com, Inc.": 13.636363636363637,
+        "NameCheap, Inc.": 45.45454545454545,
+        "Namecheap": 4.545454545454546,
+        "TLD Registrar Solutions Ltd.": 4.545454545454546,
+        "total": 100.0
+    }
+}
