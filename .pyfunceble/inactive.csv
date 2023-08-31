@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-/wigo.gif|$image,AVAILABILITY,origin.list,2023-08-26 05:29:38.579227
-"173.199.189.86,forumbokep.com,kikil.net,sodasusu.com,unyil.net,vocland.com",AVAILABILITY,origin.list,2023-08-26 05:29:38.753233
-||gambar123.com/ads/$image,AVAILABILITY,origin.list,2023-08-26 05:29:38.838642
 "*$popup,domain=info.mapsaddress.com|info.vebma.com|kiryuu.id",AVAILABILITY,origin.list,2023-08-31 05:16:01.641528
 "info.mapsaddress.com,info.vebma.com",AVAILABILITY,origin.list,2023-08-31 05:16:01.661843
 "info.gambar.pro,info.mapsaddress.com,info.vebma.com,thejakartapost.com",AVAILABILITY,origin.list,2023-08-31 05:16:01.717535
@@ -5111,3 +5108,6 @@ abpindo:src/advert/specific_block.txt,AVAILABILITY,origin.list,2023-08-31 05:30:
 "/indotogel.$image,third-party",AVAILABILITY,origin.list,2023-08-31 05:30:21.078909
 "forumbokep.com,juragantomatx.com,klikseru.com,krucil.net,vocland.com",AVAILABILITY,origin.list,2023-08-31 05:30:21.094102
 "||i.imgur.com/*.gif$image,domain=abgbugil.net|ibugil.net|indobugil.net|kikil.net|nekopoi.care|sodasusu.com|zonalendir.net",AVAILABILITY,origin.list,2023-08-31 05:30:21.096365
+/wigo.gif|$image,AVAILABILITY,origin.list,2023-08-31 05:40:23.762585
+"173.199.189.86,forumbokep.com,kikil.net,sodasusu.com,unyil.net,vocland.com",AVAILABILITY,origin.list,2023-08-31 05:40:23.757260
+||gambar123.com/ads/$image,AVAILABILITY,origin.list,2023-08-31 05:40:23.904546
