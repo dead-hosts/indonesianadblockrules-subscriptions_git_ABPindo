@@ -1,14 +1,16 @@
 {
     "counter": {
-        "NameCheap, Inc.": 2,
-        "Namecheap": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 6
+        "101domain GRS Limited": 2,
+        "Media Elite Holdings Limited": 2,
+        "NameCheap, Inc.": 10,
+        "Namecheap": 4,
+        "total": 18
     },
     "percentage": {
-        "NameCheap, Inc.": 33.333333333333336,
-        "Namecheap": 33.333333333333336,
-        "Web Commerce Communications Limited dba WebNic.cc": 33.333333333333336,
+        "101domain GRS Limited": 11.11111111111111,
+        "Media Elite Holdings Limited": 11.11111111111111,
+        "NameCheap, Inc.": 55.55555555555556,
+        "Namecheap": 22.22222222222222,
         "total": 100.0
     }
 }
