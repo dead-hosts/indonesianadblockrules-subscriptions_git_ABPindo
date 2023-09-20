@@ -1,18 +1,10 @@
 {
     "counter": {
-        "Cosmotown, Inc.": 2,
-        "Hongkong Domain Name Information Management Co., Limited": 2,
-        "NameCheap, Inc.": 2,
-        "Namecheap": 4,
-        "Porkbun LLC": 2,
-        "total": 12
+        "Gandi SAS": 2,
+        "total": 2
     },
     "percentage": {
-        "Cosmotown, Inc.": 16.666666666666668,
-        "Hongkong Domain Name Information Management Co., Limited": 16.666666666666668,
-        "NameCheap, Inc.": 16.666666666666668,
-        "Namecheap": 33.333333333333336,
-        "Porkbun LLC": 16.666666666666668,
-        "total": 100.00000000000001
+        "Gandi SAS": 100.0,
+        "total": 100.0
     }
 }
