@@ -1,28 +1,14 @@
 {
     "counter": {
-        "CV. Rumahweb Indonesia": 2,
-        "CommuniGal Communication Ltd.": 2,
-        "Dynadot, LLC": 2,
-        "GoDaddy.com, LLC": 4,
-        "Internet Domain Service BS Corp": 2,
-        "MYNIC Berhad": 6,
-        "Name.com, Inc.": 10,
-        "NameCheap, Inc.": 18,
+        "CV. JOGJACAMP": 2,
         "Namecheap": 2,
-        "TLD Registrar Solutions Ltd.": 2,
-        "total": 50
+        "PT Cloud Hosting Indonesia": 2,
+        "total": 6
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 4.0,
-        "CommuniGal Communication Ltd.": 4.0,
-        "Dynadot, LLC": 4.0,
-        "GoDaddy.com, LLC": 8.0,
-        "Internet Domain Service BS Corp": 4.0,
-        "MYNIC Berhad": 12.0,
-        "Name.com, Inc.": 20.0,
-        "NameCheap, Inc.": 36.0,
-        "Namecheap": 4.0,
-        "TLD Registrar Solutions Ltd.": 4.0,
+        "CV. JOGJACAMP": 33.333333333333336,
+        "Namecheap": 33.333333333333336,
+        "PT Cloud Hosting Indonesia": 33.333333333333336,
         "total": 100.0
     }
 }
