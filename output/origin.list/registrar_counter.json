@@ -1,14 +1,12 @@
 {
     "counter": {
-        "CV. JOGJACAMP": 2,
+        "NameCheap, Inc.": 2,
         "Namecheap": 2,
-        "PT Cloud Hosting Indonesia": 2,
-        "total": 6
+        "total": 4
     },
     "percentage": {
-        "CV. JOGJACAMP": 33.333333333333336,
-        "Namecheap": 33.333333333333336,
-        "PT Cloud Hosting Indonesia": 33.333333333333336,
+        "NameCheap, Inc.": 50.0,
+        "Namecheap": 50.0,
         "total": 100.0
     }
 }
