@@ -1,12 +1,18 @@
 {
     "counter": {
-        "NameCheap, Inc.": 2,
-        "Namecheap": 2,
-        "total": 4
+        "101domain GRS Limited": 2,
+        "MYNIC Berhad": 2,
+        "Media Elite Holdings Limited": 2,
+        "NameCheap, Inc.": 4,
+        "Namecheap": 4,
+        "total": 14
     },
     "percentage": {
-        "NameCheap, Inc.": 50.0,
-        "Namecheap": 50.0,
+        "101domain GRS Limited": 14.285714285714286,
+        "MYNIC Berhad": 14.285714285714286,
+        "Media Elite Holdings Limited": 14.285714285714286,
+        "NameCheap, Inc.": 28.571428571428573,
+        "Namecheap": 28.571428571428573,
         "total": 100.0
     }
 }
