@@ -1,18 +1,14 @@
 {
     "counter": {
-        "101domain GRS Limited": 2,
-        "MYNIC Berhad": 2,
-        "Media Elite Holdings Limited": 2,
-        "NameCheap, Inc.": 4,
-        "Namecheap": 4,
-        "total": 14
+        "NameCheap, Inc.": 6,
+        "Namecheap": 2,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 2,
+        "total": 10
     },
     "percentage": {
-        "101domain GRS Limited": 14.285714285714286,
-        "MYNIC Berhad": 14.285714285714286,
-        "Media Elite Holdings Limited": 14.285714285714286,
-        "NameCheap, Inc.": 28.571428571428573,
-        "Namecheap": 28.571428571428573,
+        "NameCheap, Inc.": 60.0,
+        "Namecheap": 20.0,
+        "PDR Ltd. d/b/a PublicDomainRegistry.com": 20.0,
         "total": 100.0
     }
 }
