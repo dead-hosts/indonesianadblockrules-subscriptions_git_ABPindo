@@ -1,16 +1,18 @@
 {
     "counter": {
-        "Cloudflare, Inc": 2,
-        "Namecheap": 4,
-        "Porkbun LLC": 2,
-        "Web Commerce Communications Limited dba WebNic.cc": 2,
-        "total": 10
+        "CV. Rumahweb Indonesia": 2,
+        "Jagat Informasi Solusi (int)": 6,
+        "NameCheap, Inc.": 2,
+        "NameSilo, LLC": 2,
+        "PT ARDH GLOBAL INDONESIA": 2,
+        "total": 14
     },
     "percentage": {
-        "Cloudflare, Inc": 20.0,
-        "Namecheap": 40.0,
-        "Porkbun LLC": 20.0,
-        "Web Commerce Communications Limited dba WebNic.cc": 20.0,
-        "total": 100.0
+        "CV. Rumahweb Indonesia": 14.285714285714286,
+        "Jagat Informasi Solusi (int)": 42.857142857142854,
+        "NameCheap, Inc.": 14.285714285714286,
+        "NameSilo, LLC": 14.285714285714286,
+        "PT ARDH GLOBAL INDONESIA": 14.285714285714286,
+        "total": 100.00000000000001
     }
 }
