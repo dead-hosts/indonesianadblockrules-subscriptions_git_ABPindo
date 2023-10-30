@@ -1,18 +1,28 @@
 {
     "counter": {
         "CV. Rumahweb Indonesia": 2,
-        "Jagat Informasi Solusi (int)": 6,
-        "NameCheap, Inc.": 2,
-        "NameSilo, LLC": 2,
-        "PT ARDH GLOBAL INDONESIA": 2,
-        "total": 14
+        "CommuniGal Communication Ltd.": 2,
+        "Dynadot, LLC": 2,
+        "GoDaddy.com, LLC": 4,
+        "Internet Domain Service BS Corp": 2,
+        "MYNIC Berhad": 10,
+        "Name.com, Inc.": 4,
+        "NameCheap, Inc.": 26,
+        "Namecheap": 2,
+        "TLD Registrar Solutions Ltd.": 2,
+        "total": 56
     },
     "percentage": {
-        "CV. Rumahweb Indonesia": 14.285714285714286,
-        "Jagat Informasi Solusi (int)": 42.857142857142854,
-        "NameCheap, Inc.": 14.285714285714286,
-        "NameSilo, LLC": 14.285714285714286,
-        "PT ARDH GLOBAL INDONESIA": 14.285714285714286,
-        "total": 100.00000000000001
+        "CV. Rumahweb Indonesia": 3.5714285714285716,
+        "CommuniGal Communication Ltd.": 3.5714285714285716,
+        "Dynadot, LLC": 3.5714285714285716,
+        "GoDaddy.com, LLC": 7.142857142857143,
+        "Internet Domain Service BS Corp": 3.5714285714285716,
+        "MYNIC Berhad": 17.857142857142858,
+        "Name.com, Inc.": 7.142857142857143,
+        "NameCheap, Inc.": 46.42857142857143,
+        "Namecheap": 3.5714285714285716,
+        "TLD Registrar Solutions Ltd.": 3.5714285714285716,
+        "total": 100.0
     }
 }
