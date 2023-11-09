@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 202311032200
+! Version: 202311081213
 ! Title: ABPindo
 ! Description: Filter tambahan untuk EasyList memblokir iklan berbahasa Indonesia dan Malaysia.
-! Last modified: 03 Nov 2023 22:00 UTC
+! Last modified: 08 Nov 2023 12:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/ABPindo/indonesianadblockrules/
 ! Licence: https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/LICENSE
@@ -1054,6 +1054,7 @@ bioskop78.com,bioskop99.me,bioskop99.mobi,nonton33.com,nonton33.tv###floating_ba
 80.209.252.146###floattop
 lk21c.fun###flobwh
 gadgetren.com###footer_sticky_inside
+manganime.live###ftads
 mangaku.site,mangaku.vip###ftadsth
 resep.web.id###googlebox
 cinemaindo.web.id,layarkaca21.com,layarkaca21.net,layarkaca21.web.id,lk21.org###hbanner
@@ -1213,6 +1214,8 @@ republika.co.id##.ads-120__right
 republika.co.id##.ads-160
 republika.co.id##.ads-160-600
 republika.co.id##.ads-300-video
+dailysocial.id##.ads-article-inner
+dailysocial.id##.ads-article-sidebar
 kompas.tv##.ads-big
 alinea.id##.ads-billboard
 kompas.tv##.ads-foot
@@ -1333,6 +1336,7 @@ elde.tv##.bannerwrap
 budiarto.id##.bausastra-ads
 inet.detik.com##.bb_banner
 tribunnews.com##.belanja-picks
+manganime.live##.berlangganan-500
 www.inibaru.id##.bg-grey.text-center.p-0.mb-3.mt-3
 bharian.com.my##.bh-ad
 detik.com##.billboard-top
@@ -1361,6 +1365,8 @@ kabar24.com##.bottom-leaderboard-cont
 gopego.com##.box
 beautynesia.id##.box-ads--container
 uzone.id##.box-ads-300x250
+uzone.id##.box-ads-billboard
+uzone.id##.box-ads-billboard-mobile
 liputan6.com##.box-ads-right
 eka.web.id##.box-banner
 kompas.com##.boxBanner1
@@ -1410,6 +1416,7 @@ kompas.tv##.container_skinad
 tribunnews.com##.content [style="width:160px; height:600px;"]
 nontonplus.com##.content-kuss-ikln
 bioskop201.biz##.contentlist
+dailysocial.id##.cover-ads-article
 lensaindonesia.com##.ctnitem.ctncom
 tirto.id##.d-sidebar
 teknologi.inilah.com##.d.wp-120x600
@@ -1465,7 +1472,7 @@ kompas.com##.kcm__stick--left
 kompas.com##.kcm__stick--right
 kompas.com##.kcm__superbig.kcm
 apk.miuiku.com,lewat.club##.klikdisini
-107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,westmanga.info##.kln
+107.152.37.223,15.235.11.45,157.245.12.72,45.12.2.2,anichin.top,anichin.vip,animasu.nl,anoboy.id,isekaisubs.web.id,kazefuri.net,kazefuri.vip,kiryuu.id,komikcast.io,komikindo.co,komikindo.me,komikremaja.club,komikstation.co,mangakita.net,mangakyo.org,mangashiro.net,manhwaindo.id,mareceh.com,mirrorkomik.net,nontondramaseri.com,oploverz.co.in,oploverz.fan,oploverz.info,oploverz.top,oploverz.tv,tv1.anikor.lol,westmanga.info##.kln
 mangaceng.com##.kln.mlb.blox
 awsubs.co##.klnrec
 indonesiamovies21.com##.ktz-banneraftercontent
@@ -1506,6 +1513,7 @@ nextren.grid.id##.mt20.top1
 nobarfilm21.net##.mvic-btn
 kompas.com##.native-wrap
 ns21.tv,ns21.us##.navbar-brand.bot
+dailysocial.id##.news__detail-ads
 jurnalisindonesia.id##.nkt__stick
 grid.id,motorplus-online.com##.nkt__stick--left
 grid.id,motorplus-online.com##.nkt__stick--right
@@ -1545,6 +1553,7 @@ unixmen.com##.reveal-modal-bg
 dwanonton.com##.right.banner-vertical
 investor.id##.row > .show-desktop > div
 senimovie.info##.rsABlock
+uzone.id##.section-ads-mid
 duwitmu.com##.section_sticky_ads_bottom
 semprot.com##.semprotnenenmontok_2
 manganime.in##.separator
@@ -1581,6 +1590,7 @@ mediapermata.com.bn,terkini.id##.td-header-rec-wrap
 internetpositif.uzone.id##.text-align-center.box-ads-content
 stocksetup.kontan.co.id##.text-center.center.width-px-1100
 klikseru.com##.textwidget img[width="300"][height="250"]
+thejakartapost.com##.tjp-placeholder-ads
 utusan.com.my##.tonal__standfirst
 beritasatu.com##.underlay-ad
 investor.id##.underlay-ad-text-box
@@ -6857,6 +6867,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://foodandwine.pro/register/"]
 ##[href^="https://fundomino."]
 ##[href^="https://fundominoqq."]
+##[href^="https://gacoer777.com/"]
 ##[href^="https://gacormenang.com/"]
 ##[href^="https://ggbet777.click/register"]
 ##[href^="https://ggjudi."]
@@ -6864,6 +6875,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://gitartogel77.com/"]
 ##[href^="https://grubhub.pro"]
 ##[href^="https://gubernurtoto.com/"]
+##[href^="https://h5.rp777wind.com/"]
 ##[href^="https://habaneroslot."]
 ##[href^="https://hahatogel.net"]
 ##[href^="https://happyslot99.sbs"]
@@ -7002,6 +7014,7 @@ leon.bet#@#[href$="/slots"]
 ##[href^="https://uniplay99.uk/"]
 ##[href^="https://untunginslot.com/"]
 ##[href^="https://vipfc88.com"]
+##[href^="https://vpn89.site/"]
 ##[href^="https://w88mania.com/"]
 ##[href^="https://wahanabet."]
 ##[href^="https://warnaqqpkv.com"]
@@ -7955,6 +7968,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="BandarQ" i]
 ##img[alt="BandarXL" i]
 ##img[alt="Bandarkiu" i]
+##img[alt="BantengMerah" i][src$=".gif"]
 ##img[alt="Betberry" i]
 ##img[alt="Biangqq" i]
 ##img[alt="Binomo" i]
@@ -8107,6 +8121,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="JOKERBET888" i]
 ##img[alt="JOKERNET88" i]
 ##img[alt="JUARAPOKER" i]
+##img[alt="JUDI89" i]
 ##img[alt="JURAGANQQ" i]
 ##img[alt="Jakartaqq" i]
 ##img[alt="JasaGol" i]
@@ -8197,6 +8212,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="MITRACAPSA" i]
 ##img[alt="MKVGAMES" i]
 ##img[alt="MKVPoker" i]
+##img[alt="MPO777" i]
 ##img[alt="MULAIQQ" i]
 ##img[alt="MURAHQQ" i]
 ##img[alt="MURNIQQ" i]
@@ -8598,6 +8614,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="rimbatoto" i]
 ##img[alt="rivalqq" i]
 ##img[alt="royalflush88" i]
+##img[alt="rp777" i]
 ##img[alt="saranatogel" i]
 ##img[alt="sbobet" i]
 ##img[alt="sbotop" i]
@@ -8636,6 +8653,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt="totomaniac" i]
 ##img[alt="vegas811" i]
 ##img[alt="wahana303" i]
+##img[alt="ws138" i]
 ##img[alt^="AGEN SABUNG" i]
 ##img[alt^="Agen Online" i]
 ##img[alt^="Agen Poker" i]
@@ -8701,6 +8719,7 @@ leon.bet#@#[href$="/slots"]
 ##img[alt^="togel singapore" i]
 ##img[alt^="togel terbesar" i]
 ##img[alt^="video bokep online" i]
+##img[title^="Bandar Taruhan" i]
 ! *** abpindo:src/adult/adult_specific_block.txt ***
 .gif$image,domain=komikmanhwa.me
 ||96.43.139.236/banner/$image
